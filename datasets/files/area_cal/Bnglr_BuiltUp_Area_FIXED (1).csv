@@ -1,0 +1,5 @@
+system:index,BuiltUp_km2,BuiltUp_percent,Year,.geo
+0,685.6673606069803,31.148614144924053,2000,"{""type"":""MultiPoint"",""coordinates"":[]}"
+1,981.5498015024066,44.59001228228219,2010,"{""type"":""MultiPoint"",""coordinates"":[]}"
+2,1322.8551254708932,60.0948889217237,2020,"{""type"":""MultiPoint"",""coordinates"":[]}"
+3,0.0,0.0,2025,"{""type"":""MultiPoint"",""coordinates"":[]}"
