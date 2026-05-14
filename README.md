@@ -25,6 +25,9 @@ This project monitors and predicts urban sprawl in Chennai, Hyderabad, and Benga
 - Matplotlib
 - Jupyter Notebook
 
+## System Architecture
+<img width="1695" height="916" alt="image" src="https://github.com/user-attachments/assets/e81be97b-46e2-4f86-9845-475ea604ea94" />
+
 ## Results
 - Achieved R² up to 0.834
 - Generated 2030 urban expansion predictions
